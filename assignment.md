@@ -17,7 +17,7 @@ Complete the **city_bikes.ipynb** notebook to demonstrate how you executed the t
 
 Your tasks are as follows:
 1. Connect to the  [Foursquare](https://developer.foursquare.com/places) API
-2. Connect to the [Yelp](https://www.yelp.com/developers/documentation/v3/get_started) API. This API offers similar services as Foursquare.
+2. Connect to the [Yelp](https://docs.developer.yelp.com/docs/getting-started) API. This API offers similar services as Foursquare.
 3. For each of the bike stations in Part 1, query both APIs to retrieve information for the following in that location:
  - Restaurants or bars
  - Various POIs (points of interest) of your choice
